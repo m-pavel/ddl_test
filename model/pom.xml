@@ -41,6 +41,8 @@
                     <packages>
                         <package>com.example.model</package>
                     </packages>
+                    <formatOutput>true</formatOutput>
+                    <action>DROP_AND_CREATE</action>
                 </configuration>
             </plugin>
         </plugins>
